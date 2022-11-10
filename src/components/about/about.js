@@ -36,12 +36,7 @@ const about = () => {
 						</article>
 					</div>
 					<p>
-						My title is Full Stack Developer. I have one year of experience. I
-						can assist you develop your business or special events and can
-						accommodate you from the market in less time. I'll develop Front-end
-						and back-end web pages and web apps using React JS, SQL I'll be
-						designing the front-end and back-end of mobile apps using react
-						native, I'll be employed as a requirement engineer.
+					Software engineer I have one year of experience. To help you reach the market more quickly, I can assist you with developing your websites and mobile applications utilising React native and Next JS. I'll build front-end and back-end web pages and apps using React JS and SQL. and creating the front-end and back-end of mobile apps with react native. I'll be a requirement engineer in my job.
 					</p>
 					<a href="#contact" className="btn btn-primary">
 						Let's Talks
